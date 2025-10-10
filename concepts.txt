@@ -1,0 +1,4 @@
+'1.commit: Snapshot of code'
+'##Git Concepts'
+'2.branch: parallel development'
+'3.merge: combining work from branches'
